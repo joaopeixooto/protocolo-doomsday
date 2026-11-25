@@ -1,2 +1,2 @@
 # protocolo-doomsday
-aulao javascript
+Aula sobre objetos {} javascript. 
